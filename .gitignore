@@ -1,0 +1,6 @@
+__pycache__
+.neptune
+/src/checkpoints
+/src/dataset
+.env
+
